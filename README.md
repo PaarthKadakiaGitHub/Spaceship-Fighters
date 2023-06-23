@@ -1,2 +1,2 @@
 # Spaceship-Fighters
-The game.py files contains the code
+![](https://github.com/Spaceship-Fighters/giphy.gif)
